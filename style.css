@@ -8,7 +8,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 1000vh;
+    height: 680vh;
     overflow-y: auto; /* Permitir el scroll vertical */
 }
 
